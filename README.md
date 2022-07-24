@@ -1,5 +1,8 @@
 # SalesPool
 NFT smart contract built using the solidity programming language
 
-This contract provides a platform where users with NFTs in other contracts can come to buy and sell these NFTs.
+
+## Description
+
+This contract provides a marketplace platform where users can buy and sell NFTs to other users.
 The contract also features some solidity best practices like utilising the Reentrancy attack on the contract.
